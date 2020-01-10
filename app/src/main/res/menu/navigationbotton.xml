@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/item_message"
+            android:icon="@drawable/bird"
+            android:color="@color/colorAccent"
+            android:title="Bird"/>
+
+    <item
+            android:id="@+id/item_diary"
+            android:icon="@drawable/choclate"
+            android:color="@color/colorPrimary"
+            android:title="Choclate"/>
+
+    <item
+            android:id="@+id/item_module"
+            android:color="@color/colorPrimaryDark"
+            android:icon="@drawable/dairy"
+            android:title="Dairy"/>
+
+    <item
+            android:id="@+id/item_monitoring"
+            android:color="@color/colorNavIcon"
+            android:icon="@drawable/lovepoems"
+            android:title="LovePoem"/>
+
+</menu>
